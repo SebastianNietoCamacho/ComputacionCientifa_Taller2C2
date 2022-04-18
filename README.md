@@ -9,7 +9,7 @@ Presentado a: Prof. Fabián Camilo Peña.
 VIDEO EXPLICATIVO:   -- SOLO VISIBLE PARA INTEGRANTES DE LA UNIVERSIDAD EL BOSQUE.
 
 
-Dentro de este repositorio se adjuntarán los archivos '.py' que contienen una serie de pasos para el análisis de un dataframe que contiene datos sobre variables a tener en cuenta por las entidades bancarias de India que pretendan generar créditos a personas naturales al clasificarlos en riesgo o no riesgo de incumplimiento con dicha obligación económica.
+Dentro de este repositorio se adjuntarán los archivos '.py' que brindan una serie de pasos para el análisis de un dataframe que contiene datos sobre variables a tener en cuenta por las entidades bancarias de India que pretendan generar créditos a personas naturales al clasificarlos en riesgo o no riesgo de incumplimiento con dicha obligación económica.
 
 El análisis realizado expuesto en los archivos adjuntos, buscan brindar información sobre las variables que pueden generar una predicción de cumplimiento hacia una obligación financiera con una entidad bancaria. Las variables tenidas en cuenta son: estado civil, ingresos, propiedades registradas, edad, entre otas. 
 
