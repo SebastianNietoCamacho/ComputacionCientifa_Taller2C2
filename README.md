@@ -6,7 +6,7 @@ Integrantes: Sebastián Camilo Nieto Camacho, Diego Mauricio Veloza Martínez, N
 
 Presentado a: Prof. Fabián Camilo Peña. 
 
-VIDEO EXPLICATIVO:   -- SOLO VISIBLE PARA INTEGRANTES DE LA UNIVERSIDAD EL BOSQUE.
+VIDEO EXPLICATIVO: https://youtu.be/xUAP_fKhh5g -- SOLO VISIBLE PARA INTEGRANTES DE LA UNIVERSIDAD EL BOSQUE.
 
 
 Dentro de este repositorio se adjuntarán los archivos '.py' que brindan una serie de pasos para el análisis de un dataframe que contiene datos sobre variables a tener en cuenta por las entidades bancarias de India que pretendan generar créditos a personas naturales al clasificarlos en riesgo o no riesgo de incumplimiento con dicha obligación económica.
